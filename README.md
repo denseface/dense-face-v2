@@ -1,7 +1,9 @@
 ## Dense-face
 This repo is the official implementation of "Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction".
 
-Please do not distribute our source code before the paper decision or we release arXiv. Also, please use the issue section to let us know what issue you have. 
+**Please do not distribute our source code before the paper decision or we release arXiv.**
+
+**Also, please use the issue section to let us know what issue you have.**
 
 ![Teaser](./figure1.png)
 
